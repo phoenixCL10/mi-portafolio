@@ -1,5 +1,5 @@
 document.getElementById("miBtnCv").addEventListener("click", function () {
-  window.open("cv-doris-condori.pdf", "_blank");
+  window.open("curriculum.pdf", "_blank");
 });
 document.getElementById("miBtnLn").addEventListener("click", function () {
   window.open("https://www.linkedin.com/in/doris-condori-limachi/", "_blank");
